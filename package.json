@@ -1,0 +1,20 @@
+{
+  "name": "@snek/wol",
+  "version": "0.0.2",
+  "description": "wake on lan",
+  "main": "index.js",
+  "private": false,
+  "bin": {
+    "wakeonlan": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devsnek/wakeonlan.git"
+  },
+  "author": "devsnek <me@gus.host>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devsnek/wakeonlan/issues"
+  },
+  "homepage": "https://github.com/devsnek/wakeonlan#readme"
+}
